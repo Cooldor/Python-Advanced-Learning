@@ -148,7 +148,7 @@ class V3(Verification):
         return self.login, self.password, self.age
 
 
-x = V3('Overlord', '12345678', 24)
+x = V3('Overlor', '12345678', 24)
 # x.save()
 # print(x.show)
 
